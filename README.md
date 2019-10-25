@@ -45,7 +45,3 @@ npm start
 - **Create a Utils object**: Would like to move `transformResponseToArray()` into a utils object.
 
 - **Deployed**
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
